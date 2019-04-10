@@ -1,0 +1,12 @@
+This is the documentation for the Project. 
+
+1. Using Tweepy -- this is a python client for offical Twitter API
+	pip install tweepy
+
+2. TextBlob  -- python library for processing the textual data. 
+
+	pip install textblob
+
+3. Install NLTK Corpora. NLTK -- Natural Language Tookit. 
+	
+	python -m textblob.download_corporal
